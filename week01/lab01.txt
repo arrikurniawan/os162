@@ -17,3 +17,4 @@ drwxr-xr-x  2 arri.kurniawan StafCS 4096 Sep 13 00:09 week08
 drwxr-xr-x  2 arri.kurniawan StafCS 4096 Sep 13 00:09 week09
 drwxr-xr-x  2 arri.kurniawan StafCS 4096 Sep 13 00:10 week10
 /home/fasilkom/mahasiswa/a/arri.kurniawan/os162/week01
+Today is 13 Sep 2016 at 00:41:29
